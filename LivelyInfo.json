@@ -1,0 +1,15 @@
+{
+  "AppVersion": "1.1.0.0",
+  "Title": "A snow in winter",
+  "Thumbnail": "lively_t.jpg",
+  "Preview": "lively_p.gif",
+  "Desc": "Do you miss the snow in winter and the peace and tranquility in winter?",
+  "Author": "Coolleget",
+  "License": null,
+  "Contact": "https://www.coolleget.com",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": null,
+  "IsAbsolutePath": false,
+  "IsNeedLicense": false
+}
